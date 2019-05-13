@@ -1,0 +1,13 @@
+{
+  "name": "teaching-heigvd-res-2019-labo-orchestra",
+  "version": "1.0.0",
+  "description": "",
+  "main": "auditor.js",
+  "scripts": {
+    "start": "node auditor.js"
+  },
+  "author": "Maximilian Vogel",
+  "dependencies": {
+    "uuid": "^3.3.2"
+  }
+}
